@@ -1,2 +1,2 @@
-# studioinabox
-Simple site for marketing and selling Studio in a Box
+# flixinabox
+Simple site for marketing and selling Flix in a Box
